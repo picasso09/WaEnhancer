@@ -1,9 +1,2 @@
-[BUGS FIXED]
-* Fixed bug in receiving messages in Tasker (within the chat)
-* Fixed bug between hiding receiving and reading messages
-* Fixed bug in the main bar where the name and biography do not appear
-* Fixed bug when blocking calls on the blacklist
-* Fixed bug where icons don't appear to view status in the latest versions of whatsapp
-
 [WHATSAPP]
-* Added support for version 2.25.2.XX
+* Added support for version 2.25.3.xx
